@@ -1,5 +1,5 @@
 # Online-Music-Player
-A responsive website of music player made using HTML, CSS, and JAVASCRIPT.
+A responsive Website(UI) of music player made using HTML, CSS, and JAVASCRIPT.
 
 # Website Link
 
